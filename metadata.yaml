@@ -1,0 +1,27 @@
+_repo: Spitzbogen_67385
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Großmann, Rudolf
+    gutenberg_agent_id: '54243'
+    url: http://www.gutenberg.org/2009/agents/54243
+creator:
+  author:
+    agent_name: Kolb, Annette
+    alias: Kolb, Anna Mathilde
+    birthdate: 1870
+    deathdate: 1967
+    gutenberg_agent_id: '42651'
+    url: http://www.gutenberg.org/2009/agents/42651
+description: ''
+gutenberg_issued: '2022-02-12'
+identifiers:
+  gutenberg: '67385'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Spitzbögen
+url: http://www.gutenberg.org/ebooks/67385
