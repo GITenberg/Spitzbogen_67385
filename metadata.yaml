@@ -5,6 +5,9 @@ contributor:
     agent_name: Großmann, Rudolf
     gutenberg_agent_id: '54243'
     url: http://www.gutenberg.org/2009/agents/54243
+covers:
+- cover_type: archival
+  image_path: 67385-h/images/cover.jpg
 creator:
   author:
     agent_name: Kolb, Annette
@@ -14,6 +17,8 @@ creator:
     gutenberg_agent_id: '42651'
     url: http://www.gutenberg.org/2009/agents/42651
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67385#Spitzbogen
 gutenberg_issued: '2022-02-12'
 identifiers:
   gutenberg: '67385'
